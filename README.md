@@ -303,7 +303,7 @@ operating-system-networking-security/
 │   ├── network-security/
 │   ├── cloud-networking/
 │   ├── kubernetes-networking/
-│   └── troubleshooting/
+│   └── networking-troubleshooting/
 │
 ├── security-fundamentals/
 │   ├── fundamentals/
@@ -481,21 +481,96 @@ Completed foundational coverage:
   - TCP Congestion Control
   - MTU And MSS
 
-Current focus:
+- DNS
+  - DNS Fundamentals
+  - DNS Resolution Flow
+  - Recursive vs Iterative Queries
+  - DNS Records
+  - DNS Caching
+  - CoreDNS
+  - DNS Troubleshooting
 
-```text
-DNS
-  ↓
-HTTP/HTTPS
-  ↓
-Routing & Switching
-  ↓
-Load Balancing
-  ↓
-Network Security
-```
+- HTTP & HTTPS
+  - HTTP Fundamentals
+  - HTTPS
+  - TLS Handshake
+  - HTTP Methods
+  - HTTP Status Codes
+  - Cookies And Sessions
+  - REST APIs
+  - HTTP Troubleshooting
 
-The repository is being developed progressively from networking fundamentals toward production-scale infrastructure communication, troubleshooting, and distributed systems networking.
+- Routing & Switching
+  - Routing Fundamentals
+  - Routing Tables
+  - Static vs Dynamic Routing
+  - VLANs
+  - NAT
+  - CIDR
+  - Subnetting
+  - Switching Fundamentals
+
+- Load Balancing
+  - Load Balancing Fundamentals
+  - L4 vs L7 Load Balancing
+  - Reverse Proxy
+  - Health Checks
+  - Session Persistence
+  - CDN Fundamentals
+  - Traffic Distribution Strategies
+
+- Network Security
+  - Firewalls
+  - Security Groups
+  - NACLs
+  - VPN Fundamentals
+  - IDS vs IPS
+  - Zero Trust Networking
+  - Network Segmentation
+
+- Cloud Networking
+  - VPC Fundamentals
+  - Public And Private Subnets
+  - Route Tables
+  - Internet Gateway
+  - NAT Gateway
+  - VPC Peering
+  - Transit Gateway
+
+- Kubernetes Networking
+  - Pod Networking
+  - CNI
+  - Services
+  - kube-proxy
+  - DNS In Kubernetes
+  - Ingress
+  - Network Policies
+  - Service Mesh
+
+- Networking Troubleshooting
+  - ping
+  - traceroute
+  - nslookup And dig
+  - netstat And ss
+  - tcpdump
+  - Wireshark
+  - Kubernetes Network Troubleshooting
+  - Production Debugging Playbook
+
+Networking Domain Status
+
+✓ Network Fundamentals
+✓ Protocols
+✓ DNS
+✓ HTTP & HTTPS
+✓ Routing & Switching
+✓ Load Balancing
+✓ Network Security
+✓ Cloud Networking
+✓ Kubernetes Networking
+✓ Networking Troubleshooting
+
+Networking coverage is currently complete and includes foundational networking concepts, protocols, infrastructure communication, cloud networking, Kubernetes networking, security concepts, and production troubleshooting workflows.
 
 ---
 

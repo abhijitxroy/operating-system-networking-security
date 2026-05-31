@@ -1,5 +1,3 @@
-
-
 # Networking
 
 Networking is the foundation of modern distributed systems, cloud platforms, internet communication, microservices, security controls, and production infrastructure. Strong networking knowledge helps engineers troubleshoot connectivity issues, optimize performance, design scalable architectures, and understand how systems communicate across networks.
@@ -85,6 +83,12 @@ Common interview areas:
 - TLS Certificate Issues
 - Application Network Failures
 
+### Production Networking Domains
+- Cloud Networking
+- Kubernetes Networking
+- Network Security
+- Production Troubleshooting
+
 ---
 
 ## Directory Structure
@@ -101,7 +105,7 @@ networking
 ├── network-security
 ├── cloud-networking
 ├── kubernetes-networking
-└── troubleshooting
+└── networking-troubleshooting
 ```
 
 ---
@@ -125,6 +129,46 @@ networking
 
 ---
 
+## Networking Module Progress
+
+### Completed Modules
+- Network Fundamentals
+- Protocols
+- DNS
+- HTTP & HTTPS
+- Routing & Switching
+- Load Balancing
+- Network Security
+- Cloud Networking
+- Kubernetes Networking
+- Networking Troubleshooting
+
+### Recommended End-to-End Learning Path
+
+```text
+Network Fundamentals
+        ↓
+Protocols
+        ↓
+DNS
+        ↓
+HTTP & HTTPS
+        ↓
+Routing & Switching
+        ↓
+Load Balancing
+        ↓
+Network Security
+        ↓
+Cloud Networking
+        ↓
+Kubernetes Networking
+        ↓
+Networking Troubleshooting
+```
+
+---
+
 ## Quick Revision Topics
 
 Must know before interviews:
@@ -143,6 +187,14 @@ Must know before interviews:
 - Load Balancer Types
 - CDN Workflow
 - VPC Networking Basics
+- Security Groups vs NACL
+- VPC Peering vs Transit Gateway
+- Kubernetes Service Types
+- Ingress vs Service
+- Network Policies
+- CNI Basics
+- DNS Troubleshooting
+- tcpdump and Wireshark Usage
 
 ---
 
@@ -171,6 +223,30 @@ Understanding networking often reduces debugging time dramatically because many 
 - Linux → Networking commands and diagnostics
 - Security Fundamentals → TLS, encryption, firewalls, VPNs
 - Troubleshooting → Production incident investigation
+
+---
+
+## Production Troubleshooting Workflow
+
+```text
+Verify Symptom
+        ↓
+Verify DNS
+        ↓
+Verify Connectivity
+        ↓
+Verify Routing
+        ↓
+Verify Ports
+        ↓
+Verify Firewall Rules
+        ↓
+Capture Traffic
+        ↓
+Root Cause Analysis
+```
+
+This workflow is applicable across traditional infrastructure, cloud networking, Kubernetes environments, and production systems.
 
 ---
 

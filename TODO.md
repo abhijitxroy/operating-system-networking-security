@@ -8,14 +8,29 @@
 
 - [x] Network Fundamentals
 - [x] Protocols
-- [ ] DNS
-- [ ] HTTP & HTTPS
-- [ ] Routing & Switching
-- [ ] Load Balancing
-- [ ] Network Security
-- [ ] Cloud Networking
-- [ ] Kubernetes Networking
-- [ ] Networking Troubleshooting
+- [x] DNS
+- [x] HTTP & HTTPS
+- [x] Routing & Switching
+- [x] Load Balancing
+- [x] Network Security
+- [x] Cloud Networking
+- [x] Kubernetes Networking
+- [x] Networking Troubleshooting
+
+### v1.2.0 Operating Systems Deep Dive
+
+#### High Priority
+
+- [ ] Operating System Fundamentals
+- [ ] Processes & Threads
+- [ ] CPU Scheduling
+- [ ] Memory Management
+- [ ] Virtual Memory
+- [ ] Synchronization
+- [ ] Deadlocks
+- [ ] File Systems
+- [ ] I/O Management
+- [ ] Operating System Troubleshooting
 
 ---
 
@@ -42,17 +57,33 @@ Completed:
 
 - Network Fundamentals
 - Protocols
-
-Remaining:
-
-- DNS Architecture
-- HTTP/HTTPS Internals
+- DNS
+- HTTP & HTTPS
 - Routing & Switching
-- Load Balancing Patterns
+- Load Balancing
 - Network Security
-- Cloud Networking Concepts
+- Cloud Networking
 - Kubernetes Networking
-- Production Networking Debugging
+- Networking Troubleshooting
+
+Status:
+
+- Networking Domain Complete
+
+#### v1.2.0 Operating Systems Deep Dive
+
+Current Focus:
+
+- Operating System Fundamentals
+- Processes & Threads
+- CPU Scheduling
+- Memory Management
+- Virtual Memory
+- Synchronization
+- Deadlocks
+- File Systems
+- I/O Management
+- Operating System Troubleshooting
 
 ### Planned
 

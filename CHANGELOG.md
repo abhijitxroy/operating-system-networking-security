@@ -2,9 +2,122 @@
 
 All notable changes to this repository will be documented in this file.
 
----
+----
 
-## [1.0.0] - 2026-05-31
+## [1.1.0]
+
+### Added
+
+#### Networking Domain Content
+
+Completed deep technical content for:
+
+- Network Fundamentals
+- Protocols
+- DNS
+- HTTP & HTTPS
+- Routing & Switching
+- Load Balancing
+- Network Security
+- Cloud Networking
+- Kubernetes Networking
+- Networking Troubleshooting
+
+#### DNS
+
+- DNS Fundamentals
+- DNS Resolution Flow
+- Recursive vs Iterative Queries
+- DNS Records
+- DNS Caching
+- CoreDNS
+- DNS Troubleshooting
+
+#### HTTP & HTTPS
+
+- HTTP Fundamentals
+- HTTPS
+- TLS Handshake
+- HTTP Methods
+- HTTP Status Codes
+- Cookies And Sessions
+- REST APIs
+- HTTP Troubleshooting
+
+#### Routing & Switching
+
+- Routing Fundamentals
+- Routing Tables
+- Static vs Dynamic Routing
+- VLANs
+- NAT
+- CIDR
+- Subnetting
+- Switching Concepts
+
+#### Load Balancing
+
+- Load Balancing Fundamentals
+- L4 vs L7 Load Balancing
+- Reverse Proxy
+- Health Checks
+- Session Persistence
+- CDN Fundamentals
+- Traffic Distribution Strategies
+
+#### Network Security
+
+- Firewalls
+- Security Groups
+- Network ACLs
+- VPN Fundamentals
+- IDS vs IPS
+- Zero Trust Networking
+- Network Segmentation
+
+#### Cloud Networking
+
+- VPC Fundamentals
+- Public And Private Subnets
+- Route Tables
+- Internet Gateway
+- NAT Gateway
+- VPC Peering
+- Transit Gateway
+
+#### Kubernetes Networking
+
+- Kubernetes Networking Overview
+- Pod Networking
+- CNI
+- Services
+- kube-proxy
+- DNS In Kubernetes
+- Ingress
+- Network Policies
+- Service Mesh
+
+#### Networking Troubleshooting
+
+- ping
+- traceroute
+- nslookup and dig
+- netstat and ss
+- tcpdump
+- Wireshark
+- Common Network Issues
+- Kubernetes Network Troubleshooting
+- Production Debugging Playbook
+
+### Impact
+
+The networking domain is now complete and provides end-to-end coverage from networking fundamentals through production-scale cloud networking, Kubernetes networking, security controls, and troubleshooting workflows.
+
+The repository now contains a complete networking knowledge system optimized for interview preparation, production engineering, troubleshooting, and long-term systems engineering study.
+
+----
+
+## [1.0.0]
 
 ### Added
 
