@@ -454,6 +454,51 @@ This learning path provides a structured progression from foundational concepts 
 
 ---
 
+
+## Current Repository Coverage
+
+### Networking
+
+Completed foundational coverage:
+
+- Network Fundamentals
+  - OSI Model
+  - TCP/IP Model
+  - Packets, Frames And Segments
+  - MAC Address vs IP Address
+  - Network Devices
+  - Unicast, Multicast And Broadcast
+  - Latency, Bandwidth And Throughput
+  - Network Troubleshooting Basics
+
+- Protocols
+  - ARP
+  - ICMP
+  - Ports And Sockets
+  - TCP vs UDP
+  - TCP Three-Way Handshake
+  - TCP Flow Control
+  - TCP Congestion Control
+  - MTU And MSS
+
+Current focus:
+
+```text
+DNS
+  ↓
+HTTP/HTTPS
+  ↓
+Routing & Switching
+  ↓
+Load Balancing
+  ↓
+Network Security
+```
+
+The repository is being developed progressively from networking fundamentals toward production-scale infrastructure communication, troubleshooting, and distributed systems networking.
+
+---
+
 ## Engineering Focus Areas
 
 This repository focuses heavily on:
