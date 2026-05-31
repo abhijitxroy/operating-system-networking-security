@@ -330,6 +330,130 @@ operating-system-networking-security/
 
 ---
 
+## Recommended Learning Path
+
+### Networking
+
+```text
+Network Fundamentals
+        ↓
+Protocols
+        ↓
+DNS
+        ↓
+HTTP/HTTPS
+        ↓
+Routing & Switching
+        ↓
+Load Balancing
+        ↓
+Network Security
+        ↓
+Cloud Networking
+        ↓
+Kubernetes Networking
+        ↓
+Networking Troubleshooting
+```
+
+### Operating Systems
+
+```text
+Fundamentals
+      ↓
+Processes
+      ↓
+Threads & Concurrency
+      ↓
+Synchronization
+      ↓
+CPU Scheduling
+      ↓
+Memory Management
+      ↓
+Deadlocks
+      ↓
+File Systems
+      ↓
+Virtualization
+```
+
+### Linux
+
+```text
+Fundamentals
+      ↓
+Process Management
+      ↓
+Memory Management
+      ↓
+Filesystem
+      ↓
+Users & Groups
+      ↓
+Permissions
+      ↓
+Systemd Services
+      ↓
+Networking Tools
+      ↓
+Logs & Monitoring
+      ↓
+Performance
+      ↓
+Security Hardening
+      ↓
+Troubleshooting
+```
+
+### Security Fundamentals
+
+```text
+Fundamentals
+      ↓
+Identity & Access Management
+      ↓
+Cryptography
+      ↓
+Application Security
+      ↓
+Web Security
+      ↓
+Infrastructure Security
+      ↓
+Cloud Security
+      ↓
+Secure Development
+      ↓
+Incident Response
+```
+
+### Troubleshooting
+
+```text
+Debugging Methodology
+        ↓
+Root Cause Analysis
+        ↓
+Incident Management
+        ↓
+Linux Troubleshooting
+        ↓
+Networking Troubleshooting
+        ↓
+Application Troubleshooting
+        ↓
+Database Troubleshooting
+        ↓
+Kubernetes Troubleshooting
+        ↓
+Cloud Troubleshooting
+```
+
+This learning path provides a structured progression from foundational concepts to production troubleshooting and operational engineering.
+
+---
+
 ## Engineering Focus Areas
 
 This repository focuses heavily on:
